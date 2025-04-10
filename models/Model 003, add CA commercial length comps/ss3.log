@@ -1,0 +1,81 @@
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 1
+Function value 9.2808121e+03; maximum gradient component mag 2.5513e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.09833  2.55128e+03 |
+
+ - final statistics:
+1 variables; iteration 3; function evaluation 6
+Function value 9.2589e+03; maximum gradient component mag 4.4424e-02
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.11556  4.44244e-02 |
+
+Initial statistics: 5 variables; iteration 0; function evaluation 0; phase 2
+Function value 9.2589006e+03; maximum gradient component mag 2.1736e+04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.11556  4.44244e-02 |  2 -0.10660 -1.45357e+03 |  3 -0.10660  1.36256e+03
+  4  0.00000  2.17361e+04 |  5 -0.56731 -3.48452e+03 |
+
+Intermediate statistics: 5 variables; iteration 20; function evaluation 45; phase 2
+Function value 7.6379354e+03; maximum gradient component mag 9.1710e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.38564  9.17096e+03 |  2  0.18626 -2.53665e+02 |  3  0.13303 -3.54506e+02
+  4 -0.04651  3.53378e+02 |  5 -1.71300  8.36595e+01 |
+
+ - final statistics:
+5 variables; iteration 30; function evaluation 59
+Function value 7.4469e+03; maximum gradient component mag 2.7607e+00
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.40631  2.76067e+00 |  2  0.22891 -1.29575e-02 |  3  0.20301  2.23970e-01
+  4  0.01080  6.73743e-01 |  5 -1.90563 -1.92339e-02 |
+
+Initial statistics: 5 variables; iteration 0; function evaluation 0; phase 3
+Function value 7.4468939e+03; maximum gradient component mag 2.7607e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.40631  2.76067e+00 |  2  0.22891 -1.29575e-02 |  3  0.20301  2.23970e-01
+  4  0.01080  6.73743e-01 |  5 -0.09437  1.92339e-02 |
+
+ - final statistics:
+5 variables; iteration 6; function evaluation 10
+Function value 7.4469e+03; maximum gradient component mag 9.1000e-01
+Exit code = 1;  converg criter 1.0000e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.40631  9.10004e-01 |  2  0.22891  1.29213e-01 |  3  0.20299 -2.74745e-02
+  4  0.01079  4.74386e-01 |  5 -0.09441 -1.15573e-02 |
+
+Initial statistics: 5 variables; iteration 0; function evaluation 0; phase 4
+Function value 7.4468939e+03; maximum gradient component mag 9.1000e-01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.40631  9.10004e-01 |  2  0.22891  1.29213e-01 |  3  0.20299 -2.74745e-02
+  4  0.01079  4.74386e-01 |  5 -0.09441 -1.15573e-02 |
+
+ - final statistics:
+5 variables; iteration 8; function evaluation 13
+Function value 7.4469e+03; maximum gradient component mag -9.5945e-06
+Exit code = 1;  converg criter 1.0000e-04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.40631 -9.59453e-06 |  2  0.22890 -5.10464e-07 |  3  0.20299 -1.56997e-07
+  4  0.01078 -1.99836e-06 |  5 -0.09445 -8.63752e-08 |
+Estimating row 1 out of 5 for hessian
+Estimating row 2 out of 5 for hessian
+Estimating row 3 out of 5 for hessian
+Estimating row 4 out of 5 for hessian
+Estimating row 5 out of 5 for hessian
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+Estimated covariance matrix may not be positive definite.
+ 1.0237180507e-07 9.6560333324e-06 1.5675486571e-05 4.4227958177e-05 6.9710716251e-04
+size of file gradfil1.tmp = 0
+size of file gradfil2.tmp = 0
+size of file varssave.tmp = 0
+size of file cmpdiff.tmp = 400000016
