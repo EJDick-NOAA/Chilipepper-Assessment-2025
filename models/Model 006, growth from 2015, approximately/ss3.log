@@ -1,0 +1,101 @@
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 1
+Function value 6.5741137e+03; maximum gradient component mag 4.1997e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.09833  4.19966e+01 |
+
+ - final statistics:
+1 variables; iteration 2; function evaluation 2
+Function value 6.5741e+03; maximum gradient component mag -2.5896e-03
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.09861 -2.58959e-03 |
+
+Initial statistics: 12 variables; iteration 0; function evaluation 0; phase 2
+Function value 6.5741078e+03; maximum gradient component mag -8.7483e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.09861 -2.58959e-03 |  2 -0.10660 -1.37309e+03 |  3 -0.10660  1.38606e+03
+  4  0.00000 -5.03701e+03 |  5 -0.05795  1.40872e+03 |  6  0.00000 -8.74833e+03
+  7 -0.05795  2.61488e+03 |  8  0.00000 -1.93457e+03 |  9 -0.40967 -3.10583e-03
+ 10 -0.05795  5.14072e+02 | 11 -0.00643 -5.38354e-02 | 12  0.62714 -1.39720e-01
+
+Intermediate statistics: 12 variables; iteration 20; function evaluation 62; phase 2
+Function value 4.1976724e+03; maximum gradient component mag -4.1789e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.38523 -4.17886e+03 |  2  0.22630 -1.12826e+03 |  3  0.19985 -3.49782e+02
+  4  0.24368 -4.71875e+02 |  5  0.03587  1.48431e+02 |  6  0.17017 -2.17362e+03
+  7  0.04948  7.87455e+02 |  8  0.57542 -3.21659e-01 |  9 -0.19263  7.35847e+01
+ 10  0.12751 -1.12201e+02 | 11 -1.68467 -1.37139e+02 | 12 -4.41411  6.73311e-01
+12 variables; iteration 40; function evaluation 85; phase 2
+Function value 4.0092152e+03; maximum gradient component mag 1.4153e+02
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.39048  1.41531e+02 |  2  0.28045  2.07142e+00 |  3  0.25773 -1.64916e-01
+  4  0.40472 -2.31479e+00 |  5  0.18805 -1.04151e+00 |  6  0.44533  1.61532e+01
+  7  0.30770 -8.66037e+00 |  8  0.69982  1.11666e+01 |  9 -0.31228  6.86569e+00
+ 10  0.17277 -1.76479e+00 | 11 -1.15007 -2.92204e+00 | 12 -4.18591 -1.66943e-01
+
+ - final statistics:
+12 variables; iteration 49; function evaluation 94
+Function value 4.0086e+03; maximum gradient component mag -6.0129e+00
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.39046 -6.01287e+00 |  2  0.28022 -1.53525e+00 |  3  0.25760  1.65092e-01
+  4  0.40477 -4.71097e-01 |  5  0.18822 -3.44182e-01 |  6  0.44261 -5.74466e-01
+  7  0.30597  5.92966e-01 |  8  0.70012 -1.26642e+00 |  9 -0.48980  5.47345e-01
+ 10  0.17259 -2.93314e-01 | 11 -0.95702  4.68516e-01 | 12 -4.17278 -2.41010e-01
+
+Initial statistics: 14 variables; iteration 0; function evaluation 0; phase 3
+Function value 4.0086281e+03; maximum gradient component mag -2.0538e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.32712 -1.25682e+03 |  2  0.00000 -2.05385e+03 |  3 -0.39046 -6.01287e+00
+  4  0.28022 -1.53525e+00 |  5  0.25760  1.65092e-01 |  6  0.40477 -4.71097e-01
+  7  0.18822 -3.44182e-01 |  8  0.44261 -5.74466e-01 |  9  0.30597  5.92966e-01
+ 10  0.70012 -1.26642e+00 | 11 -0.48980  5.47345e-01 | 12  0.17259 -2.93314e-01
+ 13 -0.95702  4.68516e-01 | 14 -0.17278 -2.41010e-01 |
+
+Intermediate statistics: 14 variables; iteration 20; function evaluation 28; phase 3
+Function value 3.9325859e+03; maximum gradient component mag 8.4762e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.11883 -1.56287e+03 |  2 -0.03863 -6.71808e+02 |  3 -0.35392  8.47617e+03
+  4  0.30507  1.81034e+02 |  5  0.29992  7.47906e+01 |  6  0.59929 -4.40300e+01
+  7  0.26825  9.06313e+01 |  8  0.60834  6.94505e+01 |  9  0.34551 -1.27785e+02
+ 10  0.76680  1.76995e+01 | 11 -0.65053  8.18361e-02 | 12  0.15277 -5.22590e+01
+ 13 -1.00894 -2.55872e-01 | 14 -0.17334 -1.61789e+00 |
+
+ - final statistics:
+14 variables; iteration 35; function evaluation 43
+Function value 3.9314e+03; maximum gradient component mag 6.5294e-01
+Exit code = 1;  converg criter 1.0000e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.10992 -1.28949e-01 |  2 -0.04003 -5.01409e-03 |  3 -0.35273  6.52940e-01
+  4  0.30701  1.32064e-03 |  5  0.30204 -1.47664e-02 |  6  0.61041  9.74840e-02
+  7  0.26840 -1.10373e-01 |  8  0.62180 -4.59808e-02 |  9  0.34851  6.24251e-02
+ 10  0.77173 -2.42430e-03 | 11 -0.84080  7.53569e-04 | 12  0.15293  1.35836e-02
+ 13 -1.00504 -1.66192e-04 | 14 -0.16574  5.09186e-05 |
+
+Initial statistics: 14 variables; iteration 0; function evaluation 0; phase 4
+Function value 3.9314399e+03; maximum gradient component mag 6.5294e-01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.10992 -1.28949e-01 |  2 -0.04003 -5.01409e-03 |  3 -0.35273  6.52940e-01
+  4  0.30701  1.32064e-03 |  5  0.30204 -1.47664e-02 |  6  0.61041  9.74840e-02
+  7  0.26840 -1.10373e-01 |  8  0.62180 -4.59808e-02 |  9  0.34851  6.24251e-02
+ 10  0.77173 -2.42430e-03 | 11 -0.84080  7.53569e-04 | 12  0.15293  1.35836e-02
+ 13 -0.99496  1.66192e-04 | 14 -0.16574  5.09186e-05 |
+Warning: the following parameters had issues
+  selparm[16] is within 0.1% of lower bound: 1.00000e-01 < 1.00155e-01 < 1.00000e+01
+
+
+ - final statistics:
+14 variables; iteration 20; function evaluation 26
+Function value 3.9314e+03; maximum gradient component mag -4.7515e-06
+Exit code = 1;  converg criter 1.0000e-04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.10993  7.42055e-07 |  2 -0.04003 -7.52970e-08 |  3 -0.35273 -4.75154e-06
+  4  0.30701  1.65798e-07 |  5  0.30203 -1.92492e-07 |  6  0.61036 -5.74213e-07
+  7  0.26838  6.10282e-07 |  8  0.62180  5.40613e-07 |  9  0.34851 -1.01216e-06
+ 10  0.77173  1.10135e-07 | 11 -0.84437 -3.45227e-07 | 12  0.15293 -4.24733e-07
+ 13 -0.99497  3.45167e-07 | 14 -0.16574  2.69739e-07 |
+size of file gradfil1.tmp = 0
+size of file gradfil2.tmp = 0
+size of file varssave.tmp = 0
+size of file cmpdiff.tmp = 0
