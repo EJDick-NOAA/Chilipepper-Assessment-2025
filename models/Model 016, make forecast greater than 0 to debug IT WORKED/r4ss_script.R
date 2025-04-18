@@ -5,7 +5,7 @@
 #remotes::install_github("r4ss/r4ss")
 
 library(r4ss)
-setwd('E:/ejdick/projects/~Chilipepper 2025/model/Model 014, add comm trawl logbook index (lambda=0); sdrep errors')
+setwd('E:/ejdick/projects/~Chilipepper 2025/model/Model 016, make forecast greater than 0 to debug IT WORKED')
 
 # NO HESSIAN
 myreplist <- SS_output(dir=getwd(), covar=FALSE)
