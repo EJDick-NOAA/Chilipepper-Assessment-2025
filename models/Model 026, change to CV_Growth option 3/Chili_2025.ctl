@@ -80,8 +80,8 @@
   -1   1    0           0           50    0      -2    0            0        0         0         0      0     0         # L_at_Amin_Mal_GP_1
   -1   0   -0.3032      0           50    0       2    0            0        0         0         0      0     0         # L_at_Amax_Mal_GP_1
   -0.5 1.5  0.4         0           50    0       2    0            0        0         0         0      0     0         # VonBert_K_Mal_GP_1
-  -2   2   -0.4         0           50    0       3    0            0        0         0         0      0     0         # CV_young_Mal_GP_1
-  -2   2   -0.4         0           50    0       3    0            0        0         0         0      0     0         # CV_old_Mal_GP_1
+  -2   2    0           0           50    0       3    0            0        0         0         0      0     0         # CV_young_Mal_GP_1
+  -2   2    0           0           50    0       3    0            0        0         0         0      0     0         # CV_old_Mal_GP_1
 # weight-length from WCGBTS survey data
    0   1    6.93782e-06 6.93782e-06 50    0      -9    0            0        0         0         0      0     0         # Wtlen_1_Mal
    2   4    3.202012    3.202012    50    0      -9    0            0        0         0         0      0     0         # Wtlen_2_Mal
