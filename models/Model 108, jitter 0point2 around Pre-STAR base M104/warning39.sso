@@ -1,0 +1,8 @@
+Warning 1 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2017 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 2 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2018 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 3 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2019 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 4 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2020 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 5 : 1st iteration warning: ssb(endyr)/ssb(styr)= 9.72153e-08; suggest start with larger R0 to get near 0.4; or use depletion fleet option
+Warning 6 : 1st iteration warning: catch logL > 50% total logL; check configuration; suggest start with larger R0
+Warning 7 : Final gradient: 0.000138003 is larger than final_conv: 0.0001
+ 7 warnings 

@@ -1,0 +1,22 @@
+Warning 1 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2009 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 2 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2015 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 3 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2016 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 4 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2017 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 5 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2018 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 6 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2019 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 7 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2020 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 8 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2021 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 9 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2022 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 10 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2023 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 11 : 1 1warn in first call: Nil selected fish for year, seas, fleet 2024 1 4; SS may recover; suggest check initial parm. values for selectivity and growth
+Warning 12 : 1st iteration warning: ssb(endyr)/ssb(styr)= 2.87696e-09; suggest start with larger R0 to get near 0.4; or use depletion fleet option
+Warning 13 : 1st iteration warning: catch logL > 50% total logL; check configuration; suggest start with larger R0
+Warning 14 : Final gradient: 0.00677094 is larger than final_conv: 0.0001
+Warning 15 : poor convergence in Fspr search 0.5 0.811832
+Warning 16 : Fmult = 40 cannot get high enough to achieve low SPR target: 0.5; SPR achieved is: 0.811832
+Warning 17 : poor convergence in Btarget search 44797.3 88650.3
+Warning 18 : poor convergence in Fmsy, final dy/dy2= -0.219408
+Warning 19 : Fmsy.mey is close to max allowed; check for convergence 
+Warning 20 : Forecast F capped by max possible F from control file4
+Note 1 Information:  N parameters that are on or within 1% of min-max bound: 2; check results, variance may be suspect
+ 20 warnings  and 1 note 
