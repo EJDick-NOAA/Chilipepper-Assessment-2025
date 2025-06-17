@@ -1,0 +1,4 @@
+Warning 1 Adjustment:  recdev_end: 2024 > retro_yr: 2020 reset 
+Note 1 Suggestion: Recruitment survey: 12 has data in: 2024, which is after last main recdev: 2020. Suggest extend recdev_end, or use pos. phase for fore_recruitments: 0
+Warning 2 : Final gradient: 0.000218593 is larger than final_conv: 0.0001
+ 2 warnings  and 1 note 
