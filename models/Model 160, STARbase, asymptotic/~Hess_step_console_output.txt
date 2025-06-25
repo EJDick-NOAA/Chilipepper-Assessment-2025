@@ -1,0 +1,17 @@
+5 879 -log(L): 2621.33  Spbio: 13702 8632.19
+5 880 -log(L): 2621.33  Spbio: 13702 8632.19
+ done
+
+The 2 Hessian step(s) reduced maxgrad from 0.00169716 to 0 and NLL by -5.7762e-09.
+All output files should be updated, but confirm as this is experimental still.
+The fact this was successful gives strong evidence of convergence to a mode
+with quadratic log-likelihood surface.
+Iterations: 880
+Finished forecast
+Writing wtatage.ss_new
+Finished posteriors
+Finished final writing of report.sso
+Begin writing *.ss_new output files ... Finished writing *.ss_new output files
+
+!!  Run has completed  !!
+--  No warnings or notes :)  --
