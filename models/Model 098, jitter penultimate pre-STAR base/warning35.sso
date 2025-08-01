@@ -1,4 +1,0 @@
-Warning 1 : parameter init value is less than parameter min -12.6748 < -10 for parm: 2; search for <now check> in echoinput.sso for parm_type
-Warning 2 : 1st iteration warning: ssb(endyr)/ssb(styr)= 9.51922e-08; suggest start with larger R0 to get near 0.4; or use depletion fleet option
-Warning 3 : 1st iteration warning: catch logL > 50% total logL; check configuration; suggest start with larger R0
- 3 warnings 

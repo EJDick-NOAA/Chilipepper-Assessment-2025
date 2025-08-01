@@ -1,5 +1,0 @@
-
-Initial statistics: 3 variables; iteration 0; function evaluation 0; phase 1
-Function value 3.8818133e+03; maximum gradient component mag -5.6199e+01
-Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
-  1  0.12819  4.08900e+01 |  2 -0.12819  4.75090e+00 |  3 -0.21635 -5.61991e+01
