@@ -1,0 +1,23 @@
+"Label","Final Base, age 10+ summary","Final Base, age 3+ summary"
+"N.Parms",106,106
+"TOTAL",2633.05,2633.05
+"Survey",29.2723,29.2722
+"Length_comp",569.289,569.289
+"Age_comp",2011.06,2011.06
+"Recruitment",23.3966,23.3966
+"Parm_priors",0.0245194,0.0245204
+"CV_old_Fem_GP_1",0.0386425,0.0386426
+"NatM_uniform_Mal_GP_1",0.265698,0.265697
+"Size_DblN_peak_NoCA_HKL(1)",40.9734,40.9735
+"Size_DblN_ascend_se_OR_WA_Comm(4)",4.55946,4.55947
+"Size_DblN_peak_NoCA_HKL(1)_BLK1repl_1875",51.604,51.6041
+"Size_DblN_ascend_se_NoCA_HKL(1)_BLK1repl_1875",4.15684,4.15685
+"Size_DblN_ascend_se_SoCA_HKL(2)_BLK2repl_1875",4.82421,4.8242
+"Size_DblN_peak_CA_TWL(3)_BLK3repl_1875",33.7914,33.7915
+"Size_DblN_ascend_se_CA_TWL(3)_BLK3repl_1875",3.28979,3.28981
+"Bratio_2025",0.83247,0.83247
+"SSB_unfished",11922.2,11922.2
+"Totbio_unfished",52043.2,52043.2
+"Recr_unfished",22733.4,22733.5
+"Dead_Catch_SPR",2113.52,2113.52
+"OFLCatch_2025",3616.7,3616.72

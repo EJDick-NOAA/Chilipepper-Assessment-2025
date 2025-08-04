@@ -1,0 +1,5 @@
+Warning 1 : Final gradient: 0.00377988 is larger than final_conv: 0.0001
+Warning 2 : poor convergence in Fmsy, final dy/dy2= -0.152256
+Warning 3 : Fmsy/mey is >3x of Fspr are you sure?  check for convergence 
+Warning 4 : Fmsy.mey is close to max allowed; check for convergence 
+ 4 warnings 
