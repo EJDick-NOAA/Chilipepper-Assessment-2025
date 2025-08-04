@@ -1,0 +1,8 @@
+Warning 1 : poor convergence in Fspr search 0.5 0.96088
+Warning 2 : Fmult = 40 cannot get high enough to achieve low SPR target: 0.5; SPR achieved is: 0.96088
+Warning 3 : poor convergence in Btarget search 102252 244552
+Warning 4 : poor convergence in Fmsy, final dy/dy2= -0.150679
+Warning 5 : Fmsy.mey is close to max allowed; check for convergence 
+Warning 6 : Forecast F capped by max possible F from control file4
+Note 1 Information:  N parameters that are on or within 1% of min-max bound: 2; check results, variance may be suspect
+ 6 warnings  and 1 note 

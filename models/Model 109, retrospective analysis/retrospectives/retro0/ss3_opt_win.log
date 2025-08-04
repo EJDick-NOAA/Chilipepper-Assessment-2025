@@ -1,0 +1,80 @@
+
+Initial statistics: 3 variables; iteration 0; function evaluation 0; phase 1
+Function value 3.7705658e+03; maximum gradient component mag -4.9097e+01
+
+ - final statistics:
+3 variables; iteration 6; function evaluation 10
+Function value 3.7664e+03; maximum gradient component mag -4.2625e+00
+Exit code = 1;  converg criter 1.0000e+01
+
+Initial statistics: 13 variables; iteration 0; function evaluation 0; phase 2
+Function value 3.7664160e+03; maximum gradient component mag -9.3416e+02
+
+Intermediate statistics: 13 variables; iteration 20; function evaluation 30; phase 2
+Function value 3.6867463e+03; maximum gradient component mag 1.2680e+01
+
+ - final statistics:
+13 variables; iteration 21; function evaluation 31
+Function value 3.6867e+03; maximum gradient component mag 1.5471e+00
+Exit code = 1;  converg criter 1.0000e+01
+
+Initial statistics: 45 variables; iteration 0; function evaluation 0; phase 3
+Function value 3.6866838e+03; maximum gradient component mag 1.5921e+03
+
+Intermediate statistics: 45 variables; iteration 20; function evaluation 30; phase 3
+Function value 3.1411340e+03; maximum gradient component mag 3.4262e+02
+45 variables; iteration 40; function evaluation 56; phase 3
+Function value 3.1172199e+03; maximum gradient component mag 2.6983e+02
+45 variables; iteration 60; function evaluation 79; phase 3
+Function value 3.0829442e+03; maximum gradient component mag 4.3417e+01
+Maximum number of function evaluations exceeded
+
+ - final statistics:
+45 variables; iteration 74; function evaluation 100
+Function value 3.0805e+03; maximum gradient component mag -1.1342e+01
+Exit code = 3;  converg criter 1.0000e+00
+
+Initial statistics: 132 variables; iteration 0; function evaluation 0; phase 4
+Function value 3.0805248e+03; maximum gradient component mag -5.6765e+02
+
+Intermediate statistics: 132 variables; iteration 20; function evaluation 28; phase 4
+Function value 2.6360429e+03; maximum gradient component mag 2.8927e+02
+132 variables; iteration 40; function evaluation 48; phase 4
+Function value 2.6140067e+03; maximum gradient component mag 1.6806e+02
+132 variables; iteration 60; function evaluation 70; phase 4
+Function value 2.5944025e+03; maximum gradient component mag 7.3542e+01
+132 variables; iteration 80; function evaluation 92; phase 4
+Function value 2.5912544e+03; maximum gradient component mag 2.9454e+01
+132 variables; iteration 100; function evaluation 115; phase 4
+Function value 2.5902875e+03; maximum gradient component mag 6.0965e+01
+132 variables; iteration 120; function evaluation 138; phase 4
+Function value 2.5893642e+03; maximum gradient component mag 3.1315e+01
+132 variables; iteration 140; function evaluation 162; phase 4
+Function value 2.5888415e+03; maximum gradient component mag 1.3509e+01
+132 variables; iteration 160; function evaluation 183; phase 4
+Function value 2.5888153e+03; maximum gradient component mag 2.6073e-01
+132 variables; iteration 180; function evaluation 216; phase 4
+Function value 2.5885263e+03; maximum gradient component mag -3.5352e-02
+  ic > imax  in fminim is answer attained ?
+Function minimizer not making progress ... is minimum attained?
+Minimprove criterion = 0.0000e+00
+
+ - final statistics:
+132 variables; iteration 192; function evaluation 259
+Function value 2.5885e+03; maximum gradient component mag -4.3642e-04
+Exit code = 1;  converg criter 1.0000e-04
+
+Initial statistics: 144 variables; iteration 0; function evaluation 0; phase 5
+Function value 2.5885263e+03; maximum gradient component mag -4.3642e-04
+  ic > imax  in fminim is answer attained ?
+Function minimizer not making progress ... is minimum attained?
+Minimprove criterion = 0.0000e+00
+
+ - final statistics:
+144 variables; iteration 2; function evaluation 32
+Function value 2.5885e+03; maximum gradient component mag -4.6420e-04
+Exit code = 1;  converg criter 1.0000e-04
+size of file gradfil1.tmp = 0
+size of file gradfil2.tmp = 0
+size of file varssave.tmp = 0
+size of file cmpdiff.tmp = 200000008
