@@ -1,0 +1,47 @@
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 1
+Function value -4.4794787e+00; maximum gradient component mag -1.0752e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.30540 -1.07515e+01 |
+
+ - final statistics:
+1 variables; iteration 1; function evaluation 2
+Function value -4.6501e+00; maximum gradient component mag -6.3912e+00
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.28494 -6.39123e+00 |
+
+ - final statistics:
+1 variables; iteration 0; function evaluation 0
+Function value -4.6501e+00; maximum gradient component mag -6.3912e+00
+Exit code = 0;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.28494 -6.39123e+00 |
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 3
+Function value -4.6501174e+00; maximum gradient component mag -6.3912e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.28494 -6.39123e+00 |
+
+ - final statistics:
+1 variables; iteration 3; function evaluation 4
+Function value -4.9065e+00; maximum gradient component mag -7.9134e-01
+Exit code = 1;  converg criter 1.0000e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.18636 -7.91343e-01 |
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 4
+Function value -4.9064694e+00; maximum gradient component mag -7.9134e-01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.18636 -7.91343e-01 |
+
+ - final statistics:
+1 variables; iteration 14; function evaluation 14
+Function value -4.9460e+00; maximum gradient component mag -5.6231e-05
+Exit code = 1;  converg criter 1.0000e-04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1  0.28843 -5.62312e-05 |
+size of file gradfil1.tmp = 0
+size of file gradfil2.tmp = 0
+size of file varssave.tmp = 0
+size of file cmpdiff.tmp = 0

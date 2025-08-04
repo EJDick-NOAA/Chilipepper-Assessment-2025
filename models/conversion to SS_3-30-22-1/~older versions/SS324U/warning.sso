@@ -1,0 +1,8 @@
+SS-V3.24U-safe;_08/29/2014;_Stock_Synthesis_by_Richard_Methot_(NOAA)_using_ADMB_11.2_Win64
+Thu Oct 24 15:50:58 2024
+
+ With sd_offset set to 0, be sure you are not estimating any variance parameters 
+ Minimum size bin is:_16; which is >10cm, which is large for use as size-at-age 0.0 recruitment
+ N warnings: 2
+Reminder: Number of lamdas !=0.0 and !=1.0:  6
+Number_of_active_parameters_on_or_near_bounds: 2

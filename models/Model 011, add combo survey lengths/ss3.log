@@ -1,0 +1,122 @@
+
+Initial statistics: 1 variables; iteration 0; function evaluation 0; phase 1
+Function value 2.2389448e+03; maximum gradient component mag -2.0075e+04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.25133 -2.00754e+04 |
+
+ - final statistics:
+1 variables; iteration 6; function evaluation 10
+Function value 7.5724e+02; maximum gradient component mag -1.9150e-02
+Exit code = 1;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.10729 -1.91502e-02 |
+
+Initial statistics: 17 variables; iteration 0; function evaluation 0; phase 2
+Function value 7.5723999e+02; maximum gradient component mag -1.3845e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.10729 -1.91502e-02 |  2 -0.10660 -1.38448e+03 |  3 -0.10660  1.38273e+03
+  4 -0.11760 -2.94072e+02 |  5 -0.05795  6.52684e+01 |  6  1.00000  4.33591e-08
+  7  0.62714  3.96015e-03 |  8 -0.11760 -6.77311e+02 |  9 -0.05795  1.62523e+02
+ 10 -0.11760 -2.31335e+02 | 11 -0.05795  5.10059e+01 | 12 -0.00064 -5.52513e-03
+ 13  0.62714 -7.78110e-03 | 14 -0.11760  8.80662e+02 | 15 -0.05795 -4.93794e+02
+ 16 -0.00064  2.00680e-03 | 17  0.62714  1.23828e-02 |
+
+Intermediate statistics: 17 variables; iteration 20; function evaluation 51; phase 2
+Function value 4.7441321e+02; maximum gradient component mag -8.6157e+02
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.39571 -8.61573e+02 |  2  0.21650  1.11633e+02 |  3  0.17238 -2.14148e+02
+  4  0.17989 -8.41867e+01 |  5  0.27439  3.47506e+01 |  6  6.69577  6.42778e-03
+  7  0.62434 -2.16009e-03 |  8  0.02316 -3.15608e+01 |  9  0.06613  4.15122e+00
+ 10  0.33344 -4.95305e+01 | 11  0.29911  4.92121e+01 | 12 -0.00795  4.43629e-04
+ 13  0.55507  7.11215e-03 | 14 -0.41570 -1.29462e+01 | 15 -0.05429 -8.68039e-01
+ 16  0.00617 -4.25458e-03 | 17  0.56752 -6.49070e-03 |
+Maximum number of function evaluations exceeded
+
+ - final statistics:
+17 variables; iteration 40; function evaluation 100
+Function value 4.5619e+02; maximum gradient component mag -2.8028e+03
+Exit code = 3;  converg criter 1.0000e+01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.39707 -2.80279e+03 |  2  0.22356 -5.07693e+02 |  3  0.19053 -8.77520e+01
+  4  0.27622 -5.24540e+01 |  5  0.35497  2.11270e+01 |  6  7.91082  2.53843e+00
+  7 -0.67487 -1.35794e-02 |  8  0.04811 -5.11614e+01 |  9  0.11352  2.16138e+01
+ 10  0.37207  1.31929e+01 | 11  0.27536 -1.06992e+01 | 12 -0.88442 -6.64258e-02
+ 13 -0.11086 -2.91632e-01 | 14 -0.03130  6.96838e+00 | 15  0.65944 -4.29418e+00
+ 16  0.40527 -9.87003e-01 | 17 -0.07796 -5.04633e+00 |
+
+Initial statistics: 19 variables; iteration 0; function evaluation 0; phase 3
+Function value 4.5619037e+02; maximum gradient component mag -2.8028e+03
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.32712  4.69844e+02 |  2  0.00000 -2.68518e+02 |  3 -0.39707 -2.80279e+03
+  4  0.22356 -5.07693e+02 |  5  0.19053 -8.77520e+01 |  6  0.27622 -5.24540e+01
+  7  0.35497  2.11270e+01 |  8 -0.08918  2.53843e+00 |  9 -0.67487 -1.35794e-02
+ 10  0.04811 -5.11614e+01 | 11  0.11352  2.16138e+01 | 12  0.37207  1.31929e+01
+ 13  0.27536 -1.06992e+01 | 14 -0.88442 -6.64258e-02 | 15 -0.11086 -2.91632e-01
+ 16 -0.03130  6.96838e+00 | 17  0.65944 -4.29418e+00 | 18  0.40527 -9.87003e-01
+ 19 -0.07796 -5.04633e+00 |
+
+Intermediate statistics: 19 variables; iteration 20; function evaluation 33; phase 3
+Function value 4.1304799e+02; maximum gradient component mag -5.0012e+02
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.30506  1.06472e+02 |  2  0.11724  8.18711e+00 |  3 -0.38142 -5.00119e+02
+  4  0.23175 -1.17981e+02 |  5  0.19404 -5.70987e+01 |  6  0.33752 -3.05933e+00
+  7  0.40350  2.80548e+00 |  8 -0.30205 -1.65439e+00 |  9 -0.58065 -9.43717e-02
+ 10  0.03670 -5.98624e+00 | 11  0.08161  4.48971e-01 | 12  0.34853 -5.15815e+00
+ 13  0.26673 -1.96968e-01 | 14 -1.00320  2.38944e-01 | 15 -0.10080 -1.42176e+00
+ 16  0.01116  2.53756e-01 | 17  0.64970 -1.26220e+00 | 18  0.08997 -4.88596e-01
+ 19 -0.15350  1.84183e+00 |
+
+ - final statistics:
+19 variables; iteration 39; function evaluation 59
+Function value 4.1146e+02; maximum gradient component mag -1.8432e-01
+Exit code = 1;  converg criter 1.0000e+00
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.34374  4.15590e-02 |  2  0.13676  4.11374e-02 |  3 -0.38851 -1.84316e-01
+  4  0.24043  1.11037e-01 |  5  0.20230 -4.57654e-02 |  6  0.33991 -1.42943e-02
+  7  0.41331  1.47564e-02 |  8 -0.36503 -4.24740e-03 |  9 -0.16528  6.06514e-04
+ 10  0.02115 -4.92154e-02 | 11  0.05858  1.28776e-02 | 12  0.34700  1.68895e-01
+ 13  0.27343 -7.43722e-03 | 14 -1.03780  2.60308e-03 | 15 -0.10418  1.87518e-02
+ 16  0.04975 -3.41316e-04 | 17  0.76350  2.95702e-03 | 18 -0.01979  1.76401e-03
+ 19 -0.48016  1.04315e-02 |
+
+Initial statistics: 19 variables; iteration 0; function evaluation 0; phase 4
+Function value 4.1145712e+02; maximum gradient component mag -1.8432e-01
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.34374  4.15590e-02 |  2  0.13676  4.11374e-02 |  3 -0.38851 -1.84316e-01
+  4  0.24043  1.11037e-01 |  5  0.20230 -4.57654e-02 |  6  0.33991 -1.42943e-02
+  7  0.41331  1.47564e-02 |  8 -0.36503 -4.24740e-03 |  9 -0.16528  6.06514e-04
+ 10  0.02115 -4.92154e-02 | 11  0.05858  1.28776e-02 | 12  0.34700  1.68895e-01
+ 13  0.27343 -7.43722e-03 | 14 -0.96220 -2.60308e-03 | 15 -0.10418  1.87518e-02
+ 16  0.04975 -3.41316e-04 | 17  0.76350  2.95702e-03 | 18 -0.01979  1.76401e-03
+ 19 -0.48016  1.04315e-02 |
+
+Intermediate statistics: 19 variables; iteration 20; function evaluation 28; phase 4
+Function value 4.1145682e+02; maximum gradient component mag -6.5193e-02
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.34378 -2.31072e-02 |  2  0.13677 -7.74682e-03 |  3 -0.38852  1.09321e-02
+  4  0.24041 -4.12219e-02 |  5  0.20228 -6.51927e-02 |  6  0.33978  1.13619e-02
+  7  0.41323  1.17600e-02 |  8 -0.36438  1.51855e-02 |  9 -0.16550 -2.92175e-03
+ 10  0.02117  5.88104e-02 | 11  0.05863 -2.67964e-03 | 12  0.34689 -6.34869e-02
+ 13  0.27335  1.14704e-02 | 14 -0.95967  3.16378e-03 | 15 -0.10414  2.78990e-02
+ 16  0.04939 -2.52426e-02 | 17  0.76267  7.60872e-03 | 18 -0.01933  1.09513e-02
+ 19 -0.52846  2.99517e-03 |
+Warning: the following parameters had issues
+  selparm[16] is within 0.1% of lower bound: 1.00000e-02 < 1.93752e-02 < 1.00000e+01
+
+
+ - final statistics:
+19 variables; iteration 27; function evaluation 35
+Function value 4.1146e+02; maximum gradient component mag -8.3155e-06
+Exit code = 1;  converg criter 1.0000e-04
+Var    Value     Gradient |Var    Value     Gradient |Var    Value     Gradient
+  1 -0.34373  9.62164e-07 |  2  0.13676  2.95535e-07 |  3 -0.38851 -8.31547e-06
+  4  0.24043 -3.73971e-06 |  5  0.20229 -3.06251e-06 |  6  0.33987  4.12942e-07
+  7  0.41328  3.30910e-07 |  8 -0.36486  4.37620e-07 |  9 -0.16533 -5.18155e-08
+ 10  0.02116  2.26427e-06 | 11  0.05860  3.66476e-08 | 12  0.34693 -2.54118e-06
+ 13  0.27336  4.49960e-07 | 14 -0.96099  8.06241e-08 | 15 -0.10420  1.03211e-06
+ 16  0.04963 -4.76547e-07 | 17  0.76302 -3.71688e-08 | 18 -0.01963 -5.77924e-07
+ 19 -0.56408  5.95446e-09 |
+size of file gradfil1.tmp = 0
+size of file gradfil2.tmp = 0
+size of file varssave.tmp = 0
+size of file cmpdiff.tmp = 0

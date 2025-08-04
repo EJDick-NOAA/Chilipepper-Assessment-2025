@@ -1,0 +1,8 @@
+#V3.30.22.1;_safe;_compile_date:_
+Jan 30 2024
+;_Stock_Synthesis_by_Richard_Methot_(NOAA)_using_ADMB_13.1
+start_time: Fri Feb 21 15:28:32 2025
+
+100 832
+active-i active-j all-i all-j Par?-i Par?-j label-i label-j corr
+Variances are 0.0 for first two elements, so do not write 
